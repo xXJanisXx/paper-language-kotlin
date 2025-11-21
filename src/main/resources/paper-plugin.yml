@@ -1,0 +1,11 @@
+name: paper-language-kotlin
+author: xXJanisXx
+website: https://github.com/xXJanisXx/paper-language-kotlin
+description: >
+  Adds Kotlin language support to Paper including Kotlin Runtime, coroutines, serialization, atomicfu-jvm, datetime, io-core and io-bytestring.
+version: 0.0.1
+
+api-version: '1.21'
+
+main: dev.xxjanisxx.paperlanguagekotlin.Main
+loader: dev.xxjanisxx.paperlanguagekotlin.loader.KotlinLoader
